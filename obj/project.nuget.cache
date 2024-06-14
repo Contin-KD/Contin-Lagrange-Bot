@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "JHqN8DaFe3InhIf57GC8RDw5j9IKPl3wdmR9WIOXFkwYlkPCfwKwqw1Cih77HcZzysbbD53yGAIvQlcxgPy+Kg==",
+  "success": true,
+  "projectFilePath": "D:\\Vs2022Dome\\Dovis\\Dovis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Contin\\.nuget\\packages\\lagrange.core\\0.2.2\\lagrange.core.0.2.2.nupkg.sha512",
+    "C:\\Users\\Contin\\.nuget\\packages\\net.codecrete.qrcodegenerator\\2.0.5\\net.codecrete.qrcodegenerator.2.0.5.nupkg.sha512",
+    "C:\\Users\\Contin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Contin\\.nuget\\packages\\openai\\2.0.0-beta.4\\openai.2.0.0-beta.4.nupkg.sha512",
+    "C:\\Users\\Contin\\.nuget\\packages\\protobuf-net\\3.2.16\\protobuf-net.3.2.16.nupkg.sha512",
+    "C:\\Users\\Contin\\.nuget\\packages\\protobuf-net.core\\3.2.16\\protobuf-net.core.3.2.16.nupkg.sha512",
+    "C:\\Users\\Contin\\.nuget\\packages\\qrcoder\\1.5.1\\qrcoder.1.5.1.nupkg.sha512",
+    "C:\\Users\\Contin\\.nuget\\packages\\system.clientmodel\\1.1.0-beta.4\\system.clientmodel.1.1.0-beta.4.nupkg.sha512",
+    "C:\\Users\\Contin\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512",
+    "C:\\Users\\Contin\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\Contin\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\Contin\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

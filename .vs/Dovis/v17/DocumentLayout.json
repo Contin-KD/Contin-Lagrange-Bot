@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Vs2022Dome\\Dovis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD7D143-525B-420E-BD45-CF7183963315}|Dovis.csproj|d:\\vs2022dome\\dovis\\handle\\messagehandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD7D143-525B-420E-BD45-CF7183963315}|Dovis.csproj|solutionrelative:handle\\messagehandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD7D143-525B-420E-BD45-CF7183963315}|Dovis.csproj|d:\\vs2022dome\\dovis\\handle\\apihandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD7D143-525B-420E-BD45-CF7183963315}|Dovis.csproj|solutionrelative:handle\\apihandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD7D143-525B-420E-BD45-CF7183963315}|Dovis.csproj|d:\\vs2022dome\\dovis\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD7D143-525B-420E-BD45-CF7183963315}|Dovis.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD7D143-525B-420E-BD45-CF7183963315}|Dovis.csproj|d:\\vs2022dome\\dovis\\tools\\randomtools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD7D143-525B-420E-BD45-CF7183963315}|Dovis.csproj|solutionrelative:tools\\randomtools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD7D143-525B-420E-BD45-CF7183963315}|Dovis.csproj|d:\\vs2022dome\\dovis\\tools\\qrcodetools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD7D143-525B-420E-BD45-CF7183963315}|Dovis.csproj|solutionrelative:tools\\qrcodetools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD7D143-525B-420E-BD45-CF7183963315}|Dovis.csproj|d:\\vs2022dome\\dovis\\login\\uplogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD7D143-525B-420E-BD45-CF7183963315}|Dovis.csproj|solutionrelative:login\\uplogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD7D143-525B-420E-BD45-CF7183963315}|Dovis.csproj|d:\\vs2022dome\\dovis\\handle\\chatgptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD7D143-525B-420E-BD45-CF7183963315}|Dovis.csproj|solutionrelative:handle\\chatgptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD7D143-525B-420E-BD45-CF7183963315}|Dovis.csproj|d:\\vs2022dome\\dovis\\login\\qrlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD7D143-525B-420E-BD45-CF7183963315}|Dovis.csproj|solutionrelative:login\\qrlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD7D143-525B-420E-BD45-CF7183963315}|Dovis.csproj|d:\\vs2022dome\\dovis\\commondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD7D143-525B-420E-BD45-CF7183963315}|Dovis.csproj|solutionrelative:commondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChatGPTService.cs",
+              "DocumentMoniker": "D:\\Vs2022Dome\\Dovis\\Handle\\ChatGPTService.cs",
+              "RelativeDocumentMoniker": "Handle\\ChatGPTService.cs",
+              "ToolTip": "D:\\Vs2022Dome\\Dovis\\Handle\\ChatGPTService.cs",
+              "RelativeToolTip": "Handle\\ChatGPTService.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAiwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:18:04.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CommonData.cs",
+              "DocumentMoniker": "D:\\Vs2022Dome\\Dovis\\CommonData.cs",
+              "RelativeDocumentMoniker": "CommonData.cs",
+              "ToolTip": "D:\\Vs2022Dome\\Dovis\\CommonData.cs",
+              "RelativeToolTip": "CommonData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:09:55.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\Vs2022Dome\\Dovis\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "D:\\Vs2022Dome\\Dovis\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAGcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T01:20:52.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RandomTools.cs",
+              "DocumentMoniker": "D:\\Vs2022Dome\\Dovis\\Tools\\RandomTools.cs",
+              "RelativeDocumentMoniker": "Tools\\RandomTools.cs",
+              "ToolTip": "D:\\Vs2022Dome\\Dovis\\Tools\\RandomTools.cs",
+              "RelativeToolTip": "Tools\\RandomTools.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:36:52.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QrCodeTools.cs",
+              "DocumentMoniker": "D:\\Vs2022Dome\\Dovis\\Tools\\QrCodeTools.cs",
+              "RelativeDocumentMoniker": "Tools\\QrCodeTools.cs",
+              "ToolTip": "D:\\Vs2022Dome\\Dovis\\Tools\\QrCodeTools.cs",
+              "RelativeToolTip": "Tools\\QrCodeTools.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAkwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:35:39.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UPLogin.cs",
+              "DocumentMoniker": "D:\\Vs2022Dome\\Dovis\\Login\\UPLogin.cs",
+              "RelativeDocumentMoniker": "Login\\UPLogin.cs",
+              "ToolTip": "D:\\Vs2022Dome\\Dovis\\Login\\UPLogin.cs",
+              "RelativeToolTip": "Login\\UPLogin.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:33:18.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "APIHandle.cs",
+              "DocumentMoniker": "D:\\Vs2022Dome\\Dovis\\Handle\\APIHandle.cs",
+              "RelativeDocumentMoniker": "Handle\\APIHandle.cs",
+              "ToolTip": "D:\\Vs2022Dome\\Dovis\\Handle\\APIHandle.cs",
+              "RelativeToolTip": "Handle\\APIHandle.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAUwDsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:04:35.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessageHandle.cs",
+              "DocumentMoniker": "D:\\Vs2022Dome\\Dovis\\Handle\\MessageHandle.cs",
+              "RelativeDocumentMoniker": "Handle\\MessageHandle.cs",
+              "ToolTip": "D:\\Vs2022Dome\\Dovis\\Handle\\MessageHandle.cs",
+              "RelativeToolTip": "Handle\\MessageHandle.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAMwCQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T07:33:20.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QrLogin.cs",
+              "DocumentMoniker": "D:\\Vs2022Dome\\Dovis\\Login\\QrLogin.cs",
+              "RelativeDocumentMoniker": "Login\\QrLogin.cs",
+              "ToolTip": "D:\\Vs2022Dome\\Dovis\\Login\\QrLogin.cs",
+              "RelativeToolTip": "Login\\QrLogin.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAiwCoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:44:00.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

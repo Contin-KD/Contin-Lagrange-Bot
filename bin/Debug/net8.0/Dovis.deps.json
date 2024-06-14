@@ -1,0 +1,209 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Dovis/1.0.0": {
+        "dependencies": {
+          "Lagrange.Core": "0.2.2",
+          "Net.Codecrete.QrCodeGenerator": "2.0.5",
+          "Newtonsoft.Json": "13.0.3",
+          "OpenAI": "2.0.0-beta.4",
+          "QRCoder": "1.5.1"
+        },
+        "runtime": {
+          "Dovis.dll": {}
+        }
+      },
+      "Lagrange.Core/0.2.2": {
+        "dependencies": {
+          "protobuf-net": "3.2.16"
+        },
+        "runtime": {
+          "lib/net6.0/Lagrange.Core.dll": {
+            "assemblyVersion": "0.2.2.0",
+            "fileVersion": "0.2.2.0"
+          }
+        }
+      },
+      "Net.Codecrete.QrCodeGenerator/2.0.5": {
+        "runtime": {
+          "lib/netstandard2.0/QrCodeGenerator.dll": {
+            "assemblyVersion": "1.6.0.0",
+            "fileVersion": "2.0.5.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.3": {
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.3.27908"
+          }
+        }
+      },
+      "OpenAI/2.0.0-beta.4": {
+        "dependencies": {
+          "System.ClientModel": "1.1.0-beta.4"
+        },
+        "runtime": {
+          "lib/net6.0/OpenAI.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "protobuf-net/3.2.16": {
+        "dependencies": {
+          "protobuf-net.Core": "3.2.16"
+        },
+        "runtime": {
+          "lib/net6.0/protobuf-net.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.2.16.54102"
+          }
+        }
+      },
+      "protobuf-net.Core/3.2.16": {
+        "dependencies": {
+          "System.Collections.Immutable": "7.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/protobuf-net.Core.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.2.16.54102"
+          }
+        }
+      },
+      "QRCoder/1.5.1": {
+        "runtime": {
+          "lib/net6.0/QRCoder.dll": {
+            "assemblyVersion": "1.5.1.0",
+            "fileVersion": "1.5.1.0"
+          }
+        }
+      },
+      "System.ClientModel/1.1.0-beta.4": {
+        "dependencies": {
+          "System.Memory.Data": "1.0.2",
+          "System.Text.Json": "4.7.2"
+        },
+        "runtime": {
+          "lib/net6.0/System.ClientModel.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.100.24.26606"
+          }
+        }
+      },
+      "System.Collections.Immutable/7.0.0": {},
+      "System.Memory.Data/1.0.2": {
+        "dependencies": {
+          "System.Text.Encodings.Web": "4.7.2",
+          "System.Text.Json": "4.7.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Memory.Data.dll": {
+            "assemblyVersion": "1.0.2.0",
+            "fileVersion": "1.0.221.20802"
+          }
+        }
+      },
+      "System.Text.Encodings.Web/4.7.2": {},
+      "System.Text.Json/4.7.2": {}
+    }
+  },
+  "libraries": {
+    "Dovis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lagrange.Core/0.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Wzt9urd2yucydO8Ge+AkMeOlnYr2Q/WBXJvPE8jQCDfXeiFfoen9QC2QHXRSK+jp6rOUpGiv41UrcUSDqD3Snw==",
+      "path": "lagrange.core/0.2.2",
+      "hashPath": "lagrange.core.0.2.2.nupkg.sha512"
+    },
+    "Net.Codecrete.QrCodeGenerator/2.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jH8i2g7liqxMVyY8WsNzJwMpwHqeWvGRl0f2GMW+C2CLT8vyIT72fdN+HfZeVFdDG0AMLxbvMPrpavXsL76LGQ==",
+      "path": "net.codecrete.qrcodegenerator/2.0.5",
+      "hashPath": "net.codecrete.qrcodegenerator.2.0.5.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "path": "newtonsoft.json/13.0.3",
+      "hashPath": "newtonsoft.json.13.0.3.nupkg.sha512"
+    },
+    "OpenAI/2.0.0-beta.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-N9XfaEOunwGjztUvBqTO1ac1LbF73Kbk1nuMv5rmE+7bQKSTySK71zEcBnr+VhkkEq8RnqqbPubsCetdIt1L2g==",
+      "path": "openai/2.0.0-beta.4",
+      "hashPath": "openai.2.0.0-beta.4.nupkg.sha512"
+    },
+    "protobuf-net/3.2.16": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-W6RM2B2f5O7SigBGfkXFYzI/a7Mks+rCHtuGlE/b5O3NMupDon7I0akjCLhrfcnqIfdWDkDafseav/MnIzUSHA==",
+      "path": "protobuf-net/3.2.16",
+      "hashPath": "protobuf-net.3.2.16.nupkg.sha512"
+    },
+    "protobuf-net.Core/3.2.16": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZFoY0lfMUWGJ4RoyI0oNj2o2l8t08n3k27YyDD0kYWQ+vXj0hTbWEwYWOpGAfCWvyUPkq9Jcc/4uR74GICZL2g==",
+      "path": "protobuf-net.core/3.2.16",
+      "hashPath": "protobuf-net.core.3.2.16.nupkg.sha512"
+    },
+    "QRCoder/1.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+v8VntytuDw4R1nCNJkSA7SWSizJoQfiByV1+nUjOwrDZEuaxefG73aKuuQjpaGtoZ7qlXpRbK70C23m1h3WLw==",
+      "path": "qrcoder/1.5.1",
+      "hashPath": "qrcoder.1.5.1.nupkg.sha512"
+    },
+    "System.ClientModel/1.1.0-beta.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TSzxsr0lU6ohBsSWXoJtLaI+Jl739f6I2eEAmAxTERxRmXs49kp/FwsUuXhjZ95Y7TcdbUi6Peb79TZhC/cBvg==",
+      "path": "system.clientmodel/1.1.0-beta.4",
+      "hashPath": "system.clientmodel.1.1.0-beta.4.nupkg.sha512"
+    },
+    "System.Collections.Immutable/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dQPcs0U1IKnBdRDBkrCTi1FoajSTBzLcVTpjO4MBCMC7f4pDOIPzgBoX8JjG7X6uZRJ8EBxsi8+DR1JuwjnzOQ==",
+      "path": "system.collections.immutable/7.0.0",
+      "hashPath": "system.collections.immutable.7.0.0.nupkg.sha512"
+    },
+    "System.Memory.Data/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JGkzeqgBsiZwKJZ1IxPNsDFZDhUvuEdX8L8BDC8N3KOj+6zMcNU28CNN59TpZE/VJYy9cP+5M+sbxtWJx3/xtw==",
+      "path": "system.memory.data/1.0.2",
+      "hashPath": "system.memory.data.1.0.2.nupkg.sha512"
+    },
+    "System.Text.Encodings.Web/4.7.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iTUgB/WtrZ1sWZs84F2hwyQhiRH6QNjQv2DkwrH+WP6RoFga2Q1m3f9/Q7FG8cck8AdHitQkmkXSY8qylcDmuA==",
+      "path": "system.text.encodings.web/4.7.2",
+      "hashPath": "system.text.encodings.web.4.7.2.nupkg.sha512"
+    },
+    "System.Text.Json/4.7.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TcMd95wcrubm9nHvJEQs70rC0H/8omiSGGpU4FQ/ZA1URIqD4pjmFJh2Mfv1yH1eHgJDWTi2hMDXwTET+zOOyg==",
+      "path": "system.text.json/4.7.2",
+      "hashPath": "system.text.json.4.7.2.nupkg.sha512"
+    }
+  }
+}
